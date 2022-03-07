@@ -5,9 +5,9 @@
 # Languages used: HTML and CSS
 
 ## Links to project:
-<a src="https://github.com/AndreBlankholm/urban-octo-telegram">GitHub Web Page</a>
+<a src="https://github.com/AndreBlankholm/urban1">GitHub Web Page</a>
 
-<a src="https://andreblankholm.github.io/urban-octo-telegram/">Live Public URL</a>
+<a src="https://andreblankholm.github.io/urban1/">Live Public URL</a>
 
 <img src="./assets/images/image Horison front page.png" width="200px" heigth="200px">
 
