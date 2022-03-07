@@ -4,11 +4,9 @@
 
 # Languages used: HTML and CSS
 
-## Links to project: <a href="https://github.com/AndreBlankholm/urban1">GitHub Web Page</a> <a href="https://andreblankholm.github.io/urban1/">Live Public URL</a>
+## Links to project: <a href="https://github.com/AndreBlankholm/urban1">GitHub Web Page</a> and <a href="https://andreblankholm.github.io/urban1/">Live Public URL</a>
 
 
-
-Screenshot:
 <img src="./assets/images/image Horison front page.png" width="200px" heigth="200px">
 
 ##
