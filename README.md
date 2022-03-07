@@ -1,8 +1,8 @@
 # HTML CSS Git Challenge: Code Refactor
 
-# Prodject Discription:
+# Prodject Discription: I want to be able to view source code and follow the HTML's semantaic stucture logicaly down the page and to refactor the CSS as much as I can. I want to make this web site as accessible as I can for people with impairments. I also need a concise and discriptive title.
 
-# 
+# Stacks Used: HTML and CSS
 
 
 Acceptance Criteria
@@ -24,3 +24,4 @@ github URL :https://github.com/AndreBlankholm/urban-octo-telegram
 
 Live Public URL: https://andreblankholm.github.io/urban-octo-telegram/
 
+<img src="./assets/images/image Horison front page.png" width="200px" heigth="200px">
