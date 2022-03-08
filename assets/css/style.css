@@ -1,10 +1,10 @@
-* {
+* {  /* reset ccs styling*/
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/*---- Start of Header ---*/
+/*---- Start of Header section---*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,13 +38,11 @@
     margin-left: 25px;
 }
 
-/*----- End of Header -----*/
-
+/*----- End of Header section -----*/
+/*-----start of body tag selectors -----*/
 body {
     background-color: #d9dcd6;
 }
-
-
 
 a {
     color: #ffffff;
@@ -54,8 +52,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/*----- End of body tag selectors -----*/
+.hero {  /*background class selector / located in body and outside of header, main aside sections*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -63,7 +61,15 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*----- start of main body -----*/
 
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/*-----start of aside section-----*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,12 +78,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
@@ -192,7 +192,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*----- End of aside section -----*/
+/*--------- Start of the Footer section ---*/
 .footer {
     padding: 30px;
     clear: both;
@@ -203,3 +204,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*----- End of Footer section-----*/
